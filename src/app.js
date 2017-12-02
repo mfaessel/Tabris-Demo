@@ -22,7 +22,7 @@ button.on('select', () => {
 // Load a JSON file 
 const data = require('./my.json');
 
-
+// Collection Example
 let people = [
   ['Holger', 'Staudacher', 'holger.jpg'],
   ['Ian', 'Bull', 'ian.jpg'],
