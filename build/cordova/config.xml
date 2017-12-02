@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget id="cip.pointdorgue" version="0.1.0">
+  <name>CIP</name>
+  <description>Example Tabris.js App</description>
+  <author email="john@example.org">John Smith</author>
+  <preference name="EnableDeveloperConsole" value="true"/>
+  <content src="app/package.json"/>
+</widget>
